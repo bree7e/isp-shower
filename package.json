@@ -1,0 +1,31 @@
+{
+  "name": "isp-shower",
+  "version": "1.0.0",
+  "description": "ISPsystem corporate theme for Shower HTML presentation engine",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "serve ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bree7e/isp-shower.git"
+  },
+  "keywords": [
+    "shower",
+    "theme"
+  ],
+  "author": "Alexandr Vetrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bree7e/isp-shower/issues"
+  },
+  "homepage": "https://github.com/bree7e/isp-shower#readme",
+  "dependencies": {
+    "shower-core": "^2.1.0"
+  },
+  "devDependencies": {
+    "serve": "^10.1.1"
+  }
+}

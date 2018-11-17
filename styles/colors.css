@@ -1,0 +1,10 @@
+:root {
+  --isp-color__main-basic: #344a5e;
+  --isp-color__main-additional: #007bc1;
+  --isp-color__main-accent: #f8e71c;
+  --isp-color__additional-accent: #e44592;
+  --isp-color__additional-border: #d9d9d9;
+  --isp-color__additional-text: #9b9b9b;
+  --isp-color__additional-bg: #f4f4f4;
+  --isp-color__additional-light-accent: #fff9b9;
+}
