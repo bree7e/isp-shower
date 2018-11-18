@@ -2,14 +2,14 @@
 
 @font-face {
   font-family: 'Ubuntu';
-  font-weight: 700;
-  src: url('../fonts/ubuntu-bold-webfont.woff2') format('woff2');
+  font-weight: 300;
+  src: url('../fonts/ubuntu-light-webfont.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Ubuntu';
-  font-weight: 300;
-  src: url('../fonts/ubuntu-light-webfont.woff2') format('woff2');
+  font-weight: 400;
+  src: url('../fonts/ubuntu-regular-webfont.woff2') format('woff2');
 }
 
 @font-face {
@@ -20,8 +20,8 @@
 
 @font-face {
   font-family: 'Ubuntu';
-  font-weight: 400;
-  src: url('../fonts/ubuntu-regular-webfont.woff2') format('woff2');
+  font-weight: 700;
+  src: url('../fonts/ubuntu-bold-webfont.woff2') format('woff2');
 }
 
 /* PT Mono */
